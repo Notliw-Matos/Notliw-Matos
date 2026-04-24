@@ -42,7 +42,6 @@ Gosto de aprender colocando a mão na massa, seja automatizando processos, model
 <br/>
 <br/>
 
-### 📊 Estatísticas
 
 <div align="center" style="margin-bottom: 30px;">
   <div style="display: flex; align-items: center; justify-content: center; gap: 12px;">
