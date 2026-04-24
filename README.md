@@ -8,7 +8,7 @@
 
 <!-- Apresentation -->
 <p align="center" style="font-size: 1.15rem; max-width: 600px; margin: auto;">
- Olá! Meu nome é Notliw, tenho 20 anos e sou apaixonado por 
+ Olá! Me chamo nome é Notliw Camilo, tenho 20 anos e sou apaixonado por 
   tecnologia e por resolver problemas do mundo real através do código. 
 <br></br>
 
