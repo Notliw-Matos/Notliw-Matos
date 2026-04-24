@@ -44,22 +44,21 @@ Gosto de aprender colocando a mão na massa, seja automatizando processos, model
 
 ### 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Notliw-Matos&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+<div align="center" style="margin-bottom: 30px;">
+  <div style="display: flex; align-items: center; justify-content: center; gap: 12px;">
+    <h1 style="margin: 0; font-weight: 700; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;">
+     <img src="https://media1.giphy.com/media/IzLejEn5juzsLN4AqX/giphy.gif" width="28" alt="Hello GIF" /> GitHub Status
+    </h1>
+  </div>
+</div>
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Notliw-Matos&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+<p align="center">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Notliw-Matos&theme=vision_friendly_dark&count_private=true" />
+</p>
 
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Notliw-Matos&theme=vision_friendly_dark&count_private=true" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Notliw-Matos&theme=vision_friendly_dark&count_private=true" />
 </p>
 
 
